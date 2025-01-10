@@ -59,7 +59,7 @@ const languageContent = {
     course01: 'Time management, mentoring a koučování (GC «ALLO»)',
     course02: 'Rozhodnutí a vyhlídky «emocionální vedení» («BTG»)',
     course03: 'Finanční účetnictví 1 (IFRS) («Elcon»)',
-    course03: 'Analytics v logistice («Analitic Boutique»)',
+    course04: 'Analytics v logistice («Analitic Boutique»)',
     title08: 'Jazyky',
     lang01: 'ukrajinský (rodilý)',
     lang02: 'angličtina - středně pokročilí (B2)',
