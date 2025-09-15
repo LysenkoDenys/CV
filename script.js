@@ -30,3 +30,5 @@ function getBlockAnimation(dur) {
   );
 }
 getBlockAnimation(1000);
+
+changeLanguage('cz');
