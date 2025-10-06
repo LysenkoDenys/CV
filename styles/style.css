@@ -134,6 +134,7 @@ li {
   box-shadow: 5px 5px 5px var(--shadow-color);
   height: auto;
   width: 70%;
+  aspect-ratio: 1 / 1;
 }
 @media (max-width: 992px) {
   .info__img {
@@ -195,6 +196,7 @@ li {
   border-radius: 5px;
   padding: 3px 10px;
   display: inline-block;
+  white-space: nowrap;
   box-shadow: 3px 3px 3px var(--shadow-color);
 }
 
@@ -219,7 +221,7 @@ li {
   .title--dark {
     margin-top: calc(var(--standard-margin) - 2.5rem);
     margin-bottom: calc(var(--standard-margin) - 2.7rem);
-    font-size: calc(var(--primary-size) - 0.8rem);
+    font-size: calc(var(--primary-size) - 1rem);
   }
 }
 /* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
@@ -323,7 +325,8 @@ li {
 }
 
 @media (max-width: 767px) {
-  .email-wrap {
+  .email-wrap,
+  #address {
     word-break: break-word;
   }
 }
@@ -341,6 +344,7 @@ li {
   margin: 3px;
   background-color: var(--secondary-color);
   flex-shrink: 0;
+  aspect-ratio: 1 / 1;
 }
 @media (max-width: 479px) {
   .sprite {
@@ -386,7 +390,7 @@ li {
 }
 
 .social-media__list {
-  text-align: center;
+  text-align: left;
 }
 
 .social-media__link,
@@ -400,6 +404,7 @@ li {
   margin-right: calc(var(--standard-margin) - 3rem);
   margin-top: calc(var(--standard-margin) - 3rem);
   box-shadow: 5px 5px 5px var(--shadow-color);
+  aspect-ratio: 1 / 1;
 }
 
 .media:hover {
@@ -413,6 +418,7 @@ li {
 
 .linkedin {
   background-position: 50.9% 5.5%;
+  background-color: #0a66c2;
 }
 
 .facebook {

@@ -7,13 +7,13 @@ const languageContent = {
     target:
       'I strive to be part of a friendly and professional team where I could develop my skills to achieve team results',
     title02: 'Contacts',
-    address: 'Most, Czech Republic, 43401',
+    address: 'Most, CR (remote/hybrid)',
     phone: '+380 506 045 095 (messengers)',
     title03: 'Skills',
     title04: 'Social Media',
     title05: 'About',
     about:
-      'I`m an enthusiastic and detail-oriented Frontend Web Developer (Junior) seeking an entry-level position with Company to use my skills in coding, troubleshooting complex problems, and assisting in the timely completion of projects',
+      'I`m an enthusiastic and detail-oriented Frontend Web Developer seeking an entry-level position with Company to use my skills in coding, troubleshooting complex problems, and assisting in the timely completion of projects',
     title06: 'Education',
     education01:
       'National Metallurgical Academy of Ukraine - metallurgical engineer',
@@ -27,7 +27,7 @@ const languageContent = {
     title08: 'Languages',
     lang01: 'ukrainian (native)',
     lang02: 'english - intermediate (B2)',
-    lang03: 'czech - elementary (A1)',
+    lang03: 'czech - elementary (A2)',
     title09: 'Projects',
     project01: '[The application helps to buy, sell or rent estate]',
     project02:
@@ -43,13 +43,13 @@ const languageContent = {
     target:
       'Snažím se být součástí přátelského a profesionálního týmu, kde jsem mohl rozvíjet své schopnosti k dosažení týmových výsledků',
     title02: 'Kontakty',
-    address: 'Most, Česká republika, 43401',
+    address: 'Most, ČR (dálkové/hybridní)',
     phone: '+380 506 045 095 (posly)',
     title03: 'Dovednosti',
     title04: 'Sociální média',
     title05: 'O sobě',
     about:
-      'Jsem nadšený frontendový webový vývojář orientovaný na detaily (Junior) hledá pozici na základní úrovni u společnosti, abych mohl používat můj dovednosti v kódování, řešení složitých problémů a asistování ve včasném dokončení projektů',
+      'Jsem nadšený frontendový webový vývojář orientovaný na detaily hledá pozici na základní úrovni u společnosti, abych mohl používat můj dovednosti v kódování, řešení složitých problémů a asistování ve včasném dokončení projektů',
     title06: 'Vzdělání',
     education01:
       'Národní metalurgická akademie Ukrajiny - metalurgický inženýr',
@@ -63,7 +63,7 @@ const languageContent = {
     title08: 'Jazyky',
     lang01: 'ukrajinský (rodilý)',
     lang02: 'angličtina - středně pokročilí (B2)',
-    lang03: 'čeština - začátečník (A1)',
+    lang03: 'čeština - začátečník (A2)',
     title09: 'Projekty',
     project01: '[Aplikace pomáhá koupit, prodat nebo pronajmout nemovitost]',
     project02:
@@ -79,7 +79,7 @@ const languageContent = {
     target:
       'Я прагну бути частиною дружньої та професійної команди, де я міг розвинути свої навички для досягнення командних результатів',
     title02: 'Контакти',
-    address: 'м. Мост, Чехія, 43401',
+    address: 'м. Мост, Чехія (remote)',
     phone: '+380 506 045 095 (мессенджери)',
     title03: 'Навички',
     title04: 'Соціальні мережі',
@@ -98,7 +98,7 @@ const languageContent = {
     title08: 'Мови',
     lang01: 'українська (рідна)',
     lang02: 'англійська - середній (B1)',
-    lang03: 'чеська - початківець (A1)',
+    lang03: 'чеська - початківець (A2)',
     title09: 'Проєкти',
     project01: '[Допомагає купити, продати, орендувати нерухомість]',
     project02:

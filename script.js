@@ -9,6 +9,7 @@ function changeLanguage(lang) {
     document.getElementById(key).innerHTML = languageContent[lang][key];
   }
 }
+changeLanguage(lang);
 
 //animation:
 function getBlockAnimation(dur) {
@@ -31,4 +32,4 @@ function getBlockAnimation(dur) {
 }
 getBlockAnimation(1000);
 
-// changeLanguage('cz');
+changeLanguage('cz');
