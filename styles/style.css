@@ -545,6 +545,7 @@ li {
     background: none; /* Remove background image */
     color: #000; /* Ensure text is dark for printing */
     -webkit-print-color-adjust: exact; /* Ensures backgrounds are printed */
+    print-color-adjust: exact;
   }
 
   .container {
