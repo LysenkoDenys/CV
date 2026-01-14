@@ -7,6 +7,10 @@
   "scripts": {
     "test": "test"
   },
+  ,
+  "engines": {
+    "node": ">=24"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/LysenkoDenys/CV.git"
