@@ -7,7 +7,6 @@
   "scripts": {
     "test": "test"
   },
-  ,
   "engines": {
     "node": ">=24"
   },
