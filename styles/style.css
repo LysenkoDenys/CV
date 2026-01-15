@@ -337,7 +337,7 @@ li {
   box-shadow: 2px 2px 2px var(--shadow-color);
   width: 30px;
   height: 30px;
-  background-image: url('../image/icons.png');
+  background-image: url('../image/icons-01.png');
   background-size: 380%;
   background-position: 50% 95%;
   border-radius: 50%;
@@ -435,12 +435,16 @@ li {
   background-position: 96.2% 5.8%;
 }
 
-.codewars {
+/* .codewars {
   background-position: 50% 49.5%;
-}
+} */
 
 .sololearn {
   background-position: 3.5% 50.5%;
+}
+
+.youtube {
+  background-position: 96.2% 50.5%;
 }
 
 /* CHAPTER-2========================================================================== */
