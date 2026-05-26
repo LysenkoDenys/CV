@@ -534,7 +534,9 @@ li {
   text-decoration: none;
   border-radius: 5px;
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
-  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  transition:
+    background-color 0.3s ease,
+    box-shadow 0.3s ease;
   text-align: center;
 }
 
@@ -607,4 +609,13 @@ li {
     height: auto;
     font-size: 14px; /* Reduce global font size for compactness */
   }
+}
+
+.languages__item a {
+  text-decoration: none;
+  border-bottom: 1px dotted transparent;
+  color: black;
+}
+.languages__item a:hover {
+  border-bottom-color: currentColor;
 }
